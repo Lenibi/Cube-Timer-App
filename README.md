@@ -2,8 +2,7 @@
 <a href="https://lenibi.github.io/Cube-Timer-App/">Click Here To Use App</a>
 Works best on a PC screen. Design is responsive, works on mobile but not as well.
 
-#### Original repo:
-https://github.com/imd1005-web-development-winter-2023/assignment-03-Lenibi
+Original repo: https://github.com/imd1005-web-development-winter-2023/assignment-03-Lenibi
 
 <img src="./ImagesReadMe/TimerDemo.gif">
 <img src="./ImagesReadMe/ss3.png">
