@@ -22,4 +22,3 @@ A timer app that keeps track of times and automatically calculates your averages
 * View your averages on the left side. The table becomes scrollable once you run out of space on the screen.
 * Click on the individual times for editing options.
 * +2 adds 2 seconds to the time. DNF or Did Not Finish sets it as an invalid solve and counts it as 0.
-* 
